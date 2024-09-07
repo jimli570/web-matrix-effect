@@ -1,4 +1,4 @@
-# Matrix Bode
+# Matrix Code
 
 Project I wrote back in 2016 that creates a customizable 'Matrix Code' animation using HTML5 Canvas and JavaScript. The animation features falling characters that can be customized in appearance and behavior.
 
